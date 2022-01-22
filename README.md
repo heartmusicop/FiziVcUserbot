@@ -30,7 +30,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zeinzo/FiziVcUserbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heartmusicop/FiziVcUserbot)
 
 
 ### 📚 Variabel Yang Dibutuhkan
